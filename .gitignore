@@ -1,0 +1,10 @@
+env
+LogonCommand
+packages
+*.wsb
+main.py
+py_wsbgen.c
+WSBGen_old*
+README_old*
+*.exe
+*.db
