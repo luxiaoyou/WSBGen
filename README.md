@@ -25,7 +25,7 @@ $ make
 
 ```cmd
 git clone https://github.com/luxiaoyou/WSBGen.git
-cd WSBGen
+cd WSBGen\build
 python -m venv env
 env\Scripts\activate.bat
 pip install -r requirements.txt
