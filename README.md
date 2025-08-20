@@ -40,7 +40,7 @@ pip install -r requirements.txt
 ```cmd
 mkdir WSBGen
 cd WSBGen
-wget -L https://raw.githubusercontent.com/luxiaoyou/WSBGen/main/WSBGen.py -O WSBGen.py
+wget -L https://raw.githubusercontent.com/luxiaoyou/WSBGen/main/source/WSBGen.py -O WSBGen.py
 pythonw WSBGen.py
 ```
 
