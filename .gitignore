@@ -1,10 +1,4 @@
-env
-LogonCommand
-packages
-*.wsb
-main.py
+build
 py_wsbgen.c
 WSBGen_old*
 README_old*
-*.exe
-*.db

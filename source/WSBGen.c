@@ -39,7 +39,7 @@ int main() {
         }
 
         // 将Python脚本数据写入文件
-        fwrite(WSBGen_py, WSBGen_py_len, 1, file);
+        fwrite(source_WSBGen_py, source_WSBGen_py_len, 1, file);
         fclose(file);
     }
 
