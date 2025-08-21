@@ -75,7 +75,7 @@ reg import C:\LogonCommand\ipconfig.reg'''
 
         reg_file_content=r'''Windows Registry Editor Version 5.00
 
-[HKEY_CLASSES_ROOT\Directory\background\shell\Get sandbox IPv4\command]
+[HKEY_CLASSES_ROOT\Directory\background\shell\Get Sandbox IPv4\command]
 @="cmd.exe /k ipconfig"'''
         
         ps1_file_content=r'''$LanguageList = Get-WinUserLanguageList;
